@@ -1551,9 +1551,9 @@ MonoBehaviour:
   maxIterations: 5
   pattern: 0
   optimized: 1
+  walkablePercentage: 5
   obstaclePrefab: {fileID: 6889524514468511898, guid: 461a3a7b054ee40bd8d8816807624a06,
     type: 3}
-  debugMode: 0
 --- !u!65 &1021387116
 BoxCollider:
   m_ObjectHideFlags: 0

@@ -1,4 +1,4 @@
 ﻿public enum Cell_Status
 {
-    EMPTY, FULL
+    EMPTY, FULL, CHECKED
 }
